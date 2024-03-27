@@ -1,3 +1,12 @@
+# Zurf Test Flight
+Find out more about Zurf.social, download the app on testflight
+
+![frame2](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/assets/139775/3184f776-c88f-4bc5-86f0-9668066dcd7b)
+
+Live URL: https://robertcedwards.github.io/Zurf-XMTP-OpenFrame/
+
+
+
 This is the simplest form that a frame can have to validate on XMTP, Farcaster, Twitter, & FB.
 
 Most of the magic happens in the meta tags. These are the required for XMTP/Farcaster. The rest below in the example are for FB/Twitter
